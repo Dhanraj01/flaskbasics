@@ -1,0 +1,2 @@
+# flaskbasics
+basics of flasks
